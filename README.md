@@ -5,4 +5,4 @@ We studied an article from Victor Chernozhukov and Iván Fernández-Val on the i
 We decided to apply these regressions techniques to study quantiles of heart rates from individuals part of the National Longitudinal Study of Adolescent to Adult Health.
 
 
-![alt text](https://github.com/JM-data/TSP-with-Monte-Carlo-Simulations/blob/master/Tour%20de%20France_b4.png?raw=true)
+![alt text](https://github.com/JM-data/Extreme-Quantile-Regression/blob/master/Coverages.png)
