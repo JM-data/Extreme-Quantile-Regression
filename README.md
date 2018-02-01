@@ -4,6 +4,8 @@ We studied an article from Victor Chernozhukov and Iván Fernández-Val on the i
 
 We decided to apply these regressions techniques to study quantiles of heart rates from individuals part of the National Longitudinal Study of Adolescent to Adult Health.
 
-We first show how extreme values are a good way to estimate coefficients in quantile regression. As seen in te below graph, normal coefficients do not converge for very low quantiles : their coverage is smaller than the extreme values coverage. That means that the true value of the coefficient is not within the 90% confidence interval around the estimated value. 
+In our research, we first show how extreme values are a good way to estimate coefficients in quantile regression. As seen in te below graph, normal coefficients do not converge for very low quantiles : their coverage is smaller than the extreme values coverage. That means that the true value of the coefficient is not within the 90% confidence interval around the estimated value. 
 
 ![alt text](https://github.com/JM-data/Extreme-Quantile-Regression/blob/master/Coverages.png)
+
+The above example is longly explained in the PDF file. An analysis on extreme quantiles for heart rates can also be found. We have found and quantified the effects of extreme quantiles of heart rates (in BPM). 
